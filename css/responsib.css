@@ -1,0 +1,277 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 320px) and (max-width: 575px) 
+{
+	.header-top .logo{
+		text-align: center;
+	}
+	.header-top .header-top-contact{
+		display: none;
+	}
+	header nav{
+		text-align: center;
+	}
+	header .appointment{
+		display: none !important;
+	}
+	header nav ul li a{
+		padding: 4px !important;
+		font-size: 10px !important;
+	}
+	.header-top {
+		padding: 10px 0 !important;
+	}
+	.banner-section .banner .single-banner .banner-text {
+		padding: 60px 0 !important;
+		text-align: center;
+	}
+	.banner-section .banner .single-banner .banner-text .banner-sub-hadding{
+		width: auto !important;
+	}
+	.banner-section .banner .single-banner .banner-text .banner-sub-hadding h3{
+		font-size: 25px !important;
+	}
+	.banner-section .banner .single-banner .banner-text .banner-hadding h2{
+		font-size: 20px !important;
+	}
+	.banner-section .banner .single-banner p{
+		font-size: 16px !important;
+	}
+	.banner-section .banner .banner-img{
+		z-index: -1;
+		opacity: .3;
+	}
+	.banner-section .owl-carousel .owl-nav button{
+		height: 20px !important;
+		width: 20px !important;
+		line-height: 20px !important;
+		font-size: 16px !important;
+		left: 10px !important;
+	}
+	.banner-section .owl-carousel .owl-nav button.owl-next{
+		right: -10px !important;
+		left: auto !important;
+	}
+	.banner-section .banner .single-banner .banner-btn{
+		padding: 10px 20px !important;
+		font-size: 14px !important;
+		margin: auto !important;
+	}
+	.protfolio{
+		text-align: center !important;
+	}
+	.prot-text {
+		padding: 50px 0 !important;
+	}
+	.protfolio .prot-hadding h4{
+		font-size: 22px !important;
+	}
+	.mr-20{
+		margin-right: 0 !important;
+	}
+	.ml-20 {
+		margin-left: 0 !important;
+	}
+	.single-prot-box{
+		width: 100% !important;
+	}
+	.mb-0{
+		margin-bottom: 48px !important;
+	}
+	.protfolio .prt-img{
+		opacity: .2 !important;
+	}
+	.our-doctors {
+		padding: 50px 0 !important;
+	}
+	.pricing .single-pricing-box{
+		margin-bottom: 20px;
+	}
+	.hadding .main-hadding h3{
+		font-size: 30px !important;
+	}
+	.service {
+		padding: 50px 0 !important;
+	}
+	.pricing {
+		padding: 50px 0 !important;
+	}
+	.foo-suc{
+		text-align: center !important;
+	}
+	.footer-section .footer-we .foo-suc h4{
+		display: block !important;
+		margin-bottom: 12px !important;
+	}
+	.footer-section .footer-we .from-section form input[type="eamil"] {
+		width: 65% !important;
+	}
+	.footer-section .footer-we .from-section form input[type="submit"] {
+		width: 34% !important;
+	}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 576px) and (max-width: 767px) 
+{
+	.header-top .logo{
+		text-align: center;
+	}
+	.header-top .header-top-contact{
+		display: none;
+	}
+	header nav{
+		text-align: center;
+	}
+	header .appointment{
+		display: none !important;
+	}
+	header nav ul li a{
+		padding: 6px !important;
+		font-size: 16px !important;
+	}
+	.header-top {
+		padding: 10px 0 !important;
+	}
+	.banner-section .banner .single-banner .banner-text {
+		padding: 60px 0 !important;
+		text-align: center;
+	}
+	.banner-section .banner .single-banner .banner-text .banner-sub-hadding{
+		width: auto !important;
+	}
+	.banner-section .banner .single-banner .banner-text .banner-sub-hadding h3{
+		font-size: 25px !important;
+	}
+	.banner-section .banner .single-banner .banner-text .banner-hadding h2{
+		font-size: 20px !important;
+	}
+	.banner-section .banner .single-banner p{
+		font-size: 16px !important;
+	}
+	.banner-section .banner .banner-img{
+		z-index: -1;
+		opacity: .3;
+	}
+	.banner-section .owl-carousel .owl-nav button{
+		height: 20px !important;
+		width: 20px !important;
+		line-height: 20px !important;
+		font-size: 16px !important;
+		left: 10px !important;
+	}
+	.banner-section .owl-carousel .owl-nav button.owl-next{
+		right: -10px !important;
+		left: auto !important;
+	}
+	.banner-section .banner .single-banner .banner-btn{
+		padding: 10px 20px !important;
+		font-size: 14px !important;
+		margin: auto !important;
+	}
+	.prot-text {
+		padding: 80px 0 !important;
+		text-align: center !important;
+	}
+	.protfolio .prot-hadding h4 {
+		font-size: 30px !important;
+	}
+	.single-prot-box{
+		width: 100% !important;
+	}
+	.protfolio .prt-img{
+		opacity: .2 !important;
+	}
+	.mb-0{
+		margin-bottom: 48px !important;
+	}
+	.mr-20{
+		margin-right: 0 !important;
+	}
+	.ml-20 {
+		margin-left: 0 !important;
+	}
+	.pricing .single-pricing-box{
+		margin-bottom: 40px;
+	}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991px) 
+{
+	.header-top .logo{
+		text-align: center;
+	}
+	.header-top .header-top-contact{
+		display: none;
+	}
+	header nav{
+		text-align: center;
+	}
+	header .appointment{
+		display: none !important;
+	}
+	header nav ul li a{
+		padding: 6px !important;
+		font-size: 16px !important;
+	}
+	.header-top{
+		padding: 20px 0 !important;
+	}
+	.banner-section .banner .banner-img{
+		z-index: -1;
+	}
+	.owl-carousel .owl-item img{
+		opacity: .5;
+	}
+	.banner-section .banner .single-banner .banner-text {
+		padding: 120px 0 !important;
+		text-align: center;
+	}
+	.single-prot-box{
+		width: 47% !important;
+	}
+	.protfolio .prt-img{
+		opacity: .2 !important;
+	}
+	.pricing .single-pricing-box{
+		margin-bottom: 40px;
+	}
+	.footer-section .footer-we .foo-suc h4{
+		display: block !important;
+		margin-bottom: 20px;
+	}
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) and (max-width: 1199px) 
+{
+	.header-top .header-top-contact .single-con-top{
+		font-size: 16px !important;
+	}
+	.header-top .header-top-contact .single-con-top i{
+		font-size: 18px !important;
+	}
+	.header-top .header-top-contact .single-con-top a{
+		font-size: 12px !important;
+	}
+	.banner-section .banner .single-banner .banner-text {
+		padding: 100px 0 100px 40px !important;
+	}
+	.banner-section .banner .banner-img{
+		z-index: -1;
+	}
+	.protfolio .prt-img img{
+		opacity: .5;
+	}
+	.protfolio .prot-hadding h4{
+		font-size: 30px !important;
+	}
+	.footer-section .footer-we .from-section form input[type="submit"]{
+		width: 40% !important;
+		margin-left: -33px !important;
+	}
+	.footer-section .footer-we .foo-suc h4 {
+		display: block !important;
+		margin-bottom: 20px !important;
+
+}
